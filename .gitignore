@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# data files — commit only mappings and reports
+data/train.csv
+data/validation.csv
+data/*.parquet
+data/*.arrow
+
+# huggingface cache
+~/.cache/huggingface/
