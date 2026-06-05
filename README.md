@@ -6,8 +6,9 @@ End-to-end MLOps pipeline fine-tuning DistilBERT on SST-2 sentiment classificati
 | Name | Role | GitHub |
 |------|------|--------|
 | Sanjay Marathe | Admin / ML lead | @g25ait2096 |
-| ABC | Infra / Docker | @ABC |
-| XYZ | CI/CD | @XYZ |
+| Rohit | Infra / Docker | @ABC |
+| Reetesh | CI/CD | @XYZ |
+| Aamir | CI/CD | @XYZ |
 
 ## Stack
 - Model: `distilbert-base-uncased` (Hugging Face)
